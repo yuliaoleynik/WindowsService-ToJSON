@@ -1,3 +1,3 @@
 # WindowsService-ToJSON
 My task was to create a basic ETL service which allows you to process files with payment transactions that different users save in the specific folder (A) on the disk (the path must be specified in the config). Users can save files at any time and you have to process them immediately. A file can be either in TXT or CSV format.
-When the file is processed the service should save the results in a separate folder (B) (the path must be specified in the config) in a subfolder (C) with the current date (i.g. 09-21-2022). As a file name you can use “output” + today’s current file number + “.json”
+When the file is processed the service should save the results in a separate folder (B) (the path must be specified in the config) in a subfolder (C) with the current date (i.g. 09-21-2022). As a file name I use “output” + today’s current file number + “.json”
