@@ -1,0 +1,44 @@
+[
+  {
+    "city": " \"Lviv",
+    "services": {
+      " Water": [
+        {
+          "name": "John Doe",
+          "payment": 500.012,
+          "date": "2022-12-01T00:00:00",
+          "account_number": 1234567
+        }
+      ],
+      " Parking": [
+        {
+          "name": "Nick Potter",
+          "payment": 880.012,
+          "date": "2022-05-03T00:00:00",
+          "account_number": 3334444
+        },
+        {
+          "name": "Gay Li",
+          "payment": 500.0,
+          "date": "2022-09-13T00:00:00",
+          "account_number": 333987
+        }
+      ]
+    },
+    "total": 1880.024
+  },
+  {
+    "city": " \"Kyiv",
+    "services": {
+      " Heat": [
+        {
+          "name": "Mike Wiksen",
+          "payment": 720.045,
+          "date": "2022-03-05T00:00:00",
+          "account_number": 7654321
+        }
+      ]
+    },
+    "total": 720.045
+  }
+]
